@@ -14,4 +14,4 @@ pip install -r requirements.txt
 │   └── inferencia.py   # Script de ejecución por consola
 ├── requirements.txt    # Dependencias del proyecto
 └── README.md           # Documentación técnica
-Autores:  Jorge Bravo, Manuel Caro, Fredy Alejandro Sarmiento TorresCargo: Analista de Información - Universidad del RosarioIngeniero Informático | Especialista en TIC
+Autores:  Jorge Bravo, Manuel Caro, Fredy Alejandro Sarmiento Torres
